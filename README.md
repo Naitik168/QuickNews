@@ -1,4 +1,4 @@
-# QuickNews (A Native News Readind App)
+# QuickNews (A Native News Reading App)
 
 - A native new application built with Rust Language and it's 'egui' library.
 - newsapi.org has been used to fetch realtime latest news on app.
